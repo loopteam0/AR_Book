@@ -1,0 +1,45 @@
+{
+  "project_info": {
+    "project_number": "419425700702",
+    "firebase_url": "https://new-app-ef13a.firebaseio.com",
+    "project_id": "new-app-ef13a",
+    "storage_bucket": "new-app-ef13a.appspot.com"
+  },
+  "client": [{
+    "client_info": {
+      "mobilesdk_app_id": "1:419425700702:android:08bcbde11d8d216f",
+      "android_client_info": {
+        "package_name": "com.knust.dsc"
+      }
+    },
+    "oauth_client": [{
+        "client_id": "419425700702-q902hnqdk9dctu7fvn67lbldp5qub5kp.apps.googleusercontent.com",
+        "client_type": 1,
+        "android_info": {
+          "package_name": "com.knust.dsc",
+          "certificate_hash": "923c7c4e31917b882c15bf0ebd37fab49433968d"
+        }
+      },
+      {
+        "client_id": "419425700702-0bm1mk0k9dl35ovj07lcn7l0pnvtj6j9.apps.googleusercontent.com",
+        "client_type": 1,
+        "android_info": {
+          "package_name": "com.knust.dsc",
+          "certificate_hash": "aea1b04fa7e13357c08ffd5fb77f5a24cea5b564"
+        }
+      }
+    ],
+    "api_key": [{
+      "current_key": "AIzaSyCM2b7Q0TpiG5pdE94UnUhCr5NHR2TJ3yE"
+    }],
+    "services": {
+      "appinvite_service": {
+        "other_platform_oauth_client": [{
+          "client_id": "419425700702-rb0lmv00dlqlcfjnbjoc46hhvo1gfemo.apps.googleusercontent.com",
+          "client_type": 3
+        }]
+      }
+    }
+  }],
+  "configuration_version": "1"
+}
